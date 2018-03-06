@@ -1,0 +1,6 @@
+framework module Pods_PregBuddyTweets {
+  umbrella header "Pods-PregBuddyTweets-umbrella.h"
+
+  export *
+  module * { export * }
+}

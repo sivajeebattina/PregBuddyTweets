@@ -7,7 +7,25 @@
 		<key>PregBuddyTweets.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>ACAE605D204EAAB60092A0F0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ACAE6074204EAAB60092A0F0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ACAE607F204EAAB70092A0F0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
